@@ -1,16 +1,12 @@
-# Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+
 
 **Abhishek Dixit**
+🚖 Tek Ride – Smart & Seamless Cab Booking System
 
----
-
-## 🚘 Tek Ride
-
-A smart ride-booking platform that helps users travel safely through red, yellow, and green zones with alerts and zone-based routing.
+Tek Ride is a user-friendly cab booking platform designed for smooth travel. With features like multiple pickup/drop options, instant booking, ride scheduling, language support, and ride customization, it ensures comfort, speed, and accessibility for all users.
 
 ## 🧭 Smart Route Planner
 
