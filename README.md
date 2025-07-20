@@ -14,3 +14,8 @@ Tek Ride is a user-friendly cab booking platform designed for smooth travel. Wit
 An interactive map-based app to plan routes safely by identifying high-crime (red) zones and alerting users accordingly.
 
 Let's make travel safer and smarter!
+
+👤 Abhishek Dixit - Intro Site
+A personal portfolio showcasing my journey as a tech enthusiast — covering my bio, education, projects, coding skills (DSA), hobbies, and fun facts, along with links to all my social handles.
+
+Let’s explore the coder, creator, and curious mind behind the screen!
